@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+  t:
+    build: .
+    environment:
+      - HOST_USER=${USER}
+
