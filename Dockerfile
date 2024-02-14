@@ -1,5 +1,5 @@
 # vim:set ft=dockerfile:
-FROM ruby:slim
+FROM ruby:3.2.3-slim-bookworm
 
 MAINTAINER Andrius Kairiukstis <andrius@kairiukstis.com>
 
